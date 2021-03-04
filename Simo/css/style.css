@@ -143,19 +143,3 @@ nav{
     margin: 0;
 }
 }
-
-@media (min-width: 1049px)
-{   
-    #content{
-        background-image: url("../images/background.jpg");
-        background-size:110%;
-        background-repeat: no-repeat;
-        position: relative;
-        top: 100px;
-        }
-    #pagecontent2{
-            height: 200px;
-            background-color: rgb(194, 194, 194);
-        }
-
-}
