@@ -143,3 +143,13 @@ nav{
     margin: 0;
 }
 }
+
+@media (max-width: 1049px){
+    #content{
+        background-size: 110%;
+    }
+    #pagecontent2{
+        height: 200px;
+        background-color: rgb(143, 94, 94);
+    }
+}
